@@ -5,8 +5,7 @@ import java.util.Scanner;
 public class Main {
 
     public static double fraction(double x){
-        int number = (int)x;
-        return x - (double) number;
+        return x - (int)x;
     }
 
     public static void main(String[] args) {
