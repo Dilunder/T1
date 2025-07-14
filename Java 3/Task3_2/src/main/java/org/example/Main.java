@@ -1,9 +1,20 @@
 package org.example;
 
-public class Main {
-    
-    
-    public static void main(String[] args) {
+import java.util.Scanner;
 
+public class Main {
+
+    public static int sumLastNums(int x){
+        return x % 10 + x % 100 % 10;
+    }
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.print("x=");
+        double number = scanner.nextDouble();
+
+        System.out.println("Результат: " + sumLastNums(number));
+        scanner.close();
     }
 }
