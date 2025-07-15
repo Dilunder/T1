@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e80bbabe-2b61-4260-8802-f4da9ca318a0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../BackendJavaTask1/MeteorologicalService/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../BackendJavaTask1/MeteorologicalService/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BackendJavaTask1/MeteorologicalService/src/main/resources/application.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,6 +93,8 @@
       <workItem from="1752498683614" duration="8000" />
       <workItem from="1752498726647" duration="778000" />
       <workItem from="1752502574837" duration="417000" />
+      <workItem from="1752613300353" duration="50000" />
+      <workItem from="1752613756108" duration="6000" />
     </task>
     <servers />
   </component>
